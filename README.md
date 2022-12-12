@@ -8,7 +8,6 @@ I am Julio Coronel and it is pleasure to be read by you, whoever you are.
 - 📫 How to reach me: a20193552@pucp.edu.pe
 - 😄 Pronouns: chill and worker.
 - ⚡ Fun fact: I do not know how lightning can represent something funny.
--->
 <!--
 **JulioCoronelG/JulioCoronelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
